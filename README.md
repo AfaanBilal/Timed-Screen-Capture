@@ -10,13 +10,13 @@ Author URL: **[Google+](https://google.com/+AfaanBilal)**
 **Timed Screen Capture** is a small (5 KB!) C# .NET Windows app to capture screenshots on a pre-selected
 time interval (default `1 second`). Screenshots are store in the `shots` directory.
 
-###Syntax  
+### Syntax
 
 ```bash
 TimedScreenCapture.exe [SECONDS]
 ```
 
-###Example  
+### Example
 
 ```bash
 TimedScreenCapture.exe 5
