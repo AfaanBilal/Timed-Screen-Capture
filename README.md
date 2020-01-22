@@ -1,8 +1,7 @@
 Timed Screen Capture
 ==============
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ##### Download: [Executable, V1.0.0](https://afaan.me/pre-built/TimedScreenCapture-1.0.0-Executable.zip)
 
