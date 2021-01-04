@@ -1,9 +1,9 @@
 Timed Screen Capture
 ==============
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
-##### Download: [Executable, V1.0.0](https://afaan.me/pre-built/TimedScreenCapture-1.0.0-Executable.zip)
+##### Download: [Executable, V1.0.0](https://afaan.dev/pre-built/TimedScreenCapture-1.0.0-Executable.zip)
 
 ## Introduction
 **Timed Screen Capture** is a small (5 KB!) C# .NET Windows app to capture screenshots on a pre-selected
